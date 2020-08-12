@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1590928173 source:d:\mylearning\programming\cplusplus\fraction\main.cpp
+	<iostream>
+	"fraction.h"
+	"fracqsort.h"
+
+1590927025 source:d:\mylearning\programming\cplusplus\fraction\fraction.cpp
+	<iostream>
+	<cmath>
+	<cassert>
+	"fraction.h"
+
+1590926984 d:\mylearning\programming\cplusplus\fraction\fraction.h
+	<iostream>
+	<string>
+
+1590929269 source:d:\mylearning\programming\cplusplus\fraction\fracqsort.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"fraction.h"
+	"fracqsort.h"
+
+1590927206 d:\mylearning\programming\cplusplus\fraction\fracqsort.h
+
